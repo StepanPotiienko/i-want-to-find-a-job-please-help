@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/StepanPotiienko/i-want-to-find-a-job-please-help/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/StepanPotiienko/i-want-to-find-a-job-please-help/tree/master/0067-add-binary) |
 ## String
 |  |
