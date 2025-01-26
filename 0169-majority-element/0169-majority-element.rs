@@ -3,6 +3,7 @@ impl Solution {
         let mut candidate: i32 = 0;
         let mut count: i32 = 0;
 
+        // used into_iter() to avoid referencing and dereferencing
         for num in nums.into_iter() {
             if count == 0 {
                 candidate = num;
